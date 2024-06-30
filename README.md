@@ -1,4 +1,4 @@
-<div style="background-color: #0001">
+<div style="background-color: #000001">
     <h2 align="left"> Hi 👋! My name is William Danilo Qujano Roque and I'm 28 years old </h2>
 
 <div align="center">
