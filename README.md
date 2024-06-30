@@ -1,3 +1,4 @@
+<div style="background-color: #0001">
     <h2 align="left"> Hi 👋! My name is William Danilo Qujano Roque and I'm 28 years old </h2>
 
 <div align="center">
@@ -17,6 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 
 [//]: # (  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />)
+
 [//]: # (  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />)
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
@@ -27,8 +29,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="30" alt="netlify logo"  />
 
 [//]: # (  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />)
+
 [//]: # (  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" alt="xd logo"  />)
+
 [//]: # (  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visual studio logo"  />)
+
 [//]: # (  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  />)
 
 [//]: # (  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  />)
@@ -51,4 +56,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/William-Quijano/William-Quijano/output/snake.svg" alt="Snake animation" />
+<img src="./snake.svg" alt="Snake animation" />
+</div>
